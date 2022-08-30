@@ -1,7 +1,10 @@
 {
-  "name": "@lion-cub/json-js-env-cli",
+  "name": "json-js-env-cli",
   "version": "1.0.0",
   "description": "",
+  "bin": {
+    "json-js-env-cli":"bin/json-js.js"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
