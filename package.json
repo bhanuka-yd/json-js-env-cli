@@ -1,6 +1,6 @@
 {
   "name": "json-js-env-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "bin": {
     "json-js-env-cli": "bin/json-js.js"
@@ -16,5 +16,9 @@
     "commander": "^9.4.0",
     "cross-spawn": "^7.0.3",
     "json-js-env": "^1.0.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bhanuka-yd/json-js-env-cli"
   }
 }
