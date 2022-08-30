@@ -2,7 +2,7 @@
 
 ## Usage
 
-```bash
+```
 Usage: json-js-env-cli [options]
 
 Options:
