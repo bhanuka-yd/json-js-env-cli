@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "bin": {
-    "json-js-env-cli":"bin/json-js.js"
+    "json-js-env-cli": "bin/json-js.js"
   },
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,9 @@
   },
   "keywords": [],
   "author": "Bhanuka Yd<05_picador_lockets@icloud.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^9.4.0",
+    "cross-spawn": "^7.0.3"
+  }
 }
