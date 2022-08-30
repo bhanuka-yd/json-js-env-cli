@@ -12,3 +12,9 @@ Options:
   -c, --command <command>  command to run
   -h, --help               display help for command
 ```
+
+## Example
+
+```
+json-js-env-cli -f ./.env.json -c "node index2.js"
+```
