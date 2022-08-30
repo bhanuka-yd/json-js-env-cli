@@ -6,7 +6,7 @@ function collect(value, previous) {
 }
 
 program
-    .option('-f, --file <file>', "JSON or JS env file (multiple files can be provided)", collect, [])
+    .option('-f, --file <file>', "JSON or JS env file (multiple files can be provided, duplicate keys will be overwritten)", collect, [])
     .option('--replace-existing', "Replace existing environment variables")
     .option('--preserve-attributes', "Preserve variable attributes (Will be injected as JSON objects)")
 
