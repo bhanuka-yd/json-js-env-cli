@@ -1,5 +1,19 @@
 # CLI for json-js-env
 
+## Installation
+
+### Global
+
+```
+npm install -g json-js-env-cli
+```
+
+### Local
+
+```
+npm install json-js-env-cli
+```
+
 ## Usage
 
 ```
