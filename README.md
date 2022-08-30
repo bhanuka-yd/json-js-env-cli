@@ -5,13 +5,13 @@
 ### Global
 
 ```
-npm install -g json-js-env-cli
+npm i -g json-js-env-cli
 ```
 
 ### Local
 
 ```
-npm install json-js-env-cli
+npm i json-js-env-cli
 ```
 
 ## Usage
