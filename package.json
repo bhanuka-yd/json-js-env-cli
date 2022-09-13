@@ -1,6 +1,6 @@
 {
   "name": "json-js-env-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "bin": {
     "json-js-env-cli": "bin/json-js.js"
